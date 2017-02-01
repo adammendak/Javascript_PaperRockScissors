@@ -59,10 +59,6 @@ function newGame() {
 
 }
 
-function playerPick(playerPick) {
-    console.log(playerPick);
-}
-
 var x = Math.random();
 Math.floor(Math.random()*3)
 
